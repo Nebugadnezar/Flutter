@@ -18,7 +18,8 @@ class _dataState extends State<data> {
   List<Quote> quotes = [
     Quote(author: 'Nizar', text: 'taratata taratata  '),
     Quote(author: 'Salah', text: 'marakana marakana marakana marakana '),
-    Quote(author: 'nizar', text: 'najem najemnajemnajemnajem ')
+    Quote(author: 'nizar', text: 'najem najemnajemnajemnajem '),
+    Quote(author: 'hello', text: 'najem najemnajemnajemnajem '),
   ];
 
   Widget quoteTemp(quote) {
